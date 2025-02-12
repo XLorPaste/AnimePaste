@@ -18,7 +18,7 @@ importers:
         version: 22.13.1
       bumpp:
         specifier: latest
-        version: 10.0.2
+        version: 10.0.3
       optc:
         specifier: ^0.6.4
         version: 0.6.4
@@ -162,8 +162,8 @@ importers:
         specifier: ^2.5.18
         version: 2.5.19
       zod:
-        specifier: ^3.24.1
-        version: 3.24.1
+        specifier: ^3.24.2
+        version: 3.24.2
     devDependencies:
       breadc:
         specifier: ^0.9.7
@@ -311,8 +311,8 @@ importers:
         specifier: ^2.7.0
         version: 2.7.0
       zod:
-        specifier: ^3.24.1
-        version: 3.24.1
+        specifier: ^3.24.2
+        version: 3.24.2
     devDependencies:
       breadc:
         specifier: ^0.9.7
@@ -2495,8 +2495,8 @@ packages:
     resolution: {integrity: sha512-WDtdLmJvAuNNPzByAYpRo2rF1Mmradw6gvWsQKf63476DDXmomT9zUiGypLcG4ibIM67vhAj8jJRdbmEws2Aqw==}
     engines: {node: '>=6.14.2'}
 
-  bumpp@10.0.2:
-    resolution: {integrity: sha512-17ztVdFfdoSStJyauUjhi+fWJ9wWmMloOhqwimLHnM3Pfd5+o/BJFwy3TDcK11bMVP5phari5/C4FxFgxXZHhw==}
+  bumpp@10.0.3:
+    resolution: {integrity: sha512-5ONBZenNf9yfTIl2vFvDEfeeioidt0fG10SzjHQw50BRxOmXzsdY+lab1+SDMfiW6UyJ1xQqzFymcy5wa8YhTA==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -5749,8 +5749,8 @@ packages:
     resolution: {integrity: sha512-GQHQqAopRhwU8Kt1DDM8NjibDXHC8eoh1erhGAJPEyveY9qqVeXvVikNKrDz69sHowPMorbPUrH/mx8c50eiBQ==}
     engines: {node: '>=18'}
 
-  zod@3.24.1:
-    resolution: {integrity: sha512-muH7gBL9sI1nciMZV67X5fTKKBLtwpZ5VBp1vsOQzj1MhrBZ4wlVCm3gedKZWLp0Oyel8sIGfeiz54Su+OVT+A==}
+  zod@3.24.2:
+    resolution: {integrity: sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ==}
 
   zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
@@ -7751,7 +7751,7 @@ snapshots:
   animegarden@0.3.0:
     dependencies:
       simptrad: 0.1.0
-      zod: 3.24.1
+      zod: 3.24.2
 
   anitomy@0.0.35: {}
 
@@ -8041,7 +8041,7 @@ snapshots:
       node-gyp-build: 4.8.4
     optional: true
 
-  bumpp@10.0.2:
+  bumpp@10.0.3:
     dependencies:
       args-tokenizer: 0.3.0
       c12: 2.0.1
@@ -11857,6 +11857,6 @@ snapshots:
 
   yoctocolors@2.1.1: {}
 
-  zod@3.24.1: {}
+  zod@3.24.2: {}
 
   zwitch@2.0.4: {}
