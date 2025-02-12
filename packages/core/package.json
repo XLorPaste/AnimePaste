@@ -54,7 +54,7 @@
     "fast-glob": "^3.3.3",
     "fs-extra": "^11.3.0",
     "memofunc": "^0.1.6",
-    "pathe": "^2.0.2",
+    "pathe": "^2.0.3",
     "simptrad": "^0.2.0",
     "trash": "^9.0.0",
     "undici": "^7.3.0",
